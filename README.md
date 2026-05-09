@@ -1,12 +1,11 @@
 # File Count Reporter
+
 ## Overview
 This console application will allow users to lookup a directory and find all file types within it for each file and file within subfolders.
-___
 
 ## Requirements
 - .Net 9.0 or newer
 - Windows 10 or newer
-___
 
 ## Screenshots
 <img width="866" height="465" alt="image" src="https://github.com/user-attachments/assets/a42157c4-bcbe-470b-bd3d-dd1f97522ab4" />

@@ -5,9 +5,9 @@ ___
 This console application will allow users to lookup a directory and find all file types within it for each file and file within subfolders.
 
 ## Requirements
-___
 - .Net 9.0 or newer
 - Windows 10 or newer
+___
 
 ## Screenshots
 ___

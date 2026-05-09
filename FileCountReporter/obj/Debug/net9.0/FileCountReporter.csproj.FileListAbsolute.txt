@@ -1,0 +1,15 @@
+C:\Users\owner\Documents\GitHub\File_Count_Reporter\FileCountReporter\bin\Debug\net9.0\FileCountReporter.exe
+C:\Users\owner\Documents\GitHub\File_Count_Reporter\FileCountReporter\bin\Debug\net9.0\FileCountReporter.deps.json
+C:\Users\owner\Documents\GitHub\File_Count_Reporter\FileCountReporter\bin\Debug\net9.0\FileCountReporter.runtimeconfig.json
+C:\Users\owner\Documents\GitHub\File_Count_Reporter\FileCountReporter\bin\Debug\net9.0\FileCountReporter.dll
+C:\Users\owner\Documents\GitHub\File_Count_Reporter\FileCountReporter\bin\Debug\net9.0\FileCountReporter.pdb
+C:\Users\owner\Documents\GitHub\File_Count_Reporter\FileCountReporter\obj\Debug\net9.0\FileCountReporter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\Documents\GitHub\File_Count_Reporter\FileCountReporter\obj\Debug\net9.0\FileCountReporter.AssemblyInfoInputs.cache
+C:\Users\owner\Documents\GitHub\File_Count_Reporter\FileCountReporter\obj\Debug\net9.0\FileCountReporter.AssemblyInfo.cs
+C:\Users\owner\Documents\GitHub\File_Count_Reporter\FileCountReporter\obj\Debug\net9.0\FileCountReporter.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\GitHub\File_Count_Reporter\FileCountReporter\obj\Debug\net9.0\FileCountReporter.sourcelink.json
+C:\Users\owner\Documents\GitHub\File_Count_Reporter\FileCountReporter\obj\Debug\net9.0\FileCountReporter.dll
+C:\Users\owner\Documents\GitHub\File_Count_Reporter\FileCountReporter\obj\Debug\net9.0\refint\FileCountReporter.dll
+C:\Users\owner\Documents\GitHub\File_Count_Reporter\FileCountReporter\obj\Debug\net9.0\FileCountReporter.pdb
+C:\Users\owner\Documents\GitHub\File_Count_Reporter\FileCountReporter\obj\Debug\net9.0\FileCountReporter.genruntimeconfig.cache
+C:\Users\owner\Documents\GitHub\File_Count_Reporter\FileCountReporter\obj\Debug\net9.0\ref\FileCountReporter.dll
